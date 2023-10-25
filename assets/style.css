@@ -1,0 +1,79 @@
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    background-color: aquamarine;
+}
+
+.header {
+    padding: 50px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: rgb(2, 72, 133);
+    color: aliceblue;
+}
+
+.hero-image {
+    width: 100%;
+    height: 300px;
+}
+
+.header h1 {
+    display: inline-block;
+    font-size: 48px;
+}
+
+.header nav {
+    padding-top: 0px;
+    margin-right: 20px;
+    float: right;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 20px;
+    color: aliceblue;
+}
+
+.header nav ul li {
+    display: inline-block;
+    margin-left: 25px;
+
+}
+
+.content {
+    display: block;
+    margin-left: 100px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 20px;
+}
+
+.about-me {
+
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 30px;
+    color: rgb(0, 1, 2);
+}
+
+.my-work {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 30px;
+    color: rgb(0, 1, 2);
+}
+
+.contact-me {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 30px;
+    color: rgb(0, 1, 2);
+}
+
+p {
+    text-align: justify;
+    margin-left: 400px;
+    font-size: 20px
+}
+
+/* HEN I am presented with the developer's name, a recent photo or avatar, and links to sections about them, their work, and how to contact them
+ WHEN I click one of the links in the navigation THEN the UI scrolls to the corresponding section WHEN I click on the link to the section about their work THEN the UI scrolls to a section with titled images of the developer's applications
+ WHEN I am presented with the developer's first application
+ THEN that application's image should be larger in size than the others
+ WHEN I click on the images of the applications THEN I am taken to that deployed application WHEN I resize the page or view the site on various screens and devices THEN I am presented with a responsive layout that adapts to my viewport */
