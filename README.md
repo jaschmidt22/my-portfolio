@@ -12,7 +12,9 @@ N/A
 
 This web page will be used to showcase examples of the websites that I create. It will be a way for potential employers to see what kind of work I do. As I complete more projects I will add them to my profile.
 
-https://github.com/jaschmidt22/my-portfolio/blob/main/assets/my%20profile.png
+![image](https://github.com/jaschmidt22/my-portfolio/assets/146290812/f84cc831-8e5f-459b-bc4a-0cc3ec427c59)
+
+
 
 
 ## Credits
