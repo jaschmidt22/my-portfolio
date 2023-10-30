@@ -14,6 +14,9 @@ This web page will be used to showcase examples of the websites that I create. I
 
 ![image](https://github.com/jaschmidt22/my-portfolio/assets/146290812/f84cc831-8e5f-459b-bc4a-0cc3ec427c59)
 
+![image](https://github.com/jaschmidt22/my-portfolio/assets/146290812/8ae06793-675f-40af-8039-07d5fa1540c4)
+
+
 
 
 
