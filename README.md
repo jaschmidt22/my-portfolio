@@ -12,6 +12,10 @@ N/A
 
 This web page will be used to showcase examples of the websites that I create. It will be a way for potential employers to see what kind of work I do. As I complete more projects I will add them to my profile.
 
+![Alt text](<assets/my profile.png>)
+
+![Alt text](<assets/my profile1.png>)
+
 ## Credits
 
 Throughout the making of this project I referenced my class repository https://git.bootcampcontent.com/Arizona-State-University/ASU-VIRT-FSF-PT-10-2023-U-LOLC for examples when I needed help.
